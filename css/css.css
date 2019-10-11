@@ -1,0 +1,142 @@
+       .form-control{
+        height: 30px;
+        width: 140px;
+        float: right;
+        margin-top:10px;
+        margin-left:10px;
+      }
+      .text1{
+        margin-right: 20px;
+      }
+      .btn-fl{
+        float: right;
+        height: 30px;
+        width: 40px;
+        margin-right: 30px;
+        margin-top:10px;
+        font-size: 12px;
+      }
+      .btn-default.active, .btn-default:active, .open>.dropdown-toggle.btn-default{
+        background-color: #fff;
+        padding-left:6px;
+        padding-top: 6px;
+      }
+     .row{
+      margin-top: 50px;
+
+     }
+     .yincang{
+      visibility:hidden;
+     }
+     .nav-sidebar{
+      background: #ddd;
+      height: 850px;
+      margin-left:-20px;
+      margin-top:-10px;
+     }
+     .nav li{
+      font-size: 14px;
+     }
+      .row .active{
+      background: #428bca;
+      }
+      .row{
+        margin-left: ;
+      }
+      .row .active a{
+      margin-top:-10px;
+      color: #fff;
+      }
+      .row .active a:hover{
+        background: none;
+      }
+      .button1{
+        float: left;
+        font-size: 10px;
+      }
+      .div1{
+        margin-bottom:20px;
+        width: 1000px;
+        margin-top:-60px;
+      }
+      .placeholder {
+        width: 100%;
+      }
+      .placeholder .button1{
+        margin-left:-5px;
+        margin-right:10px;
+        margin-top:12px;
+      }
+      .div2{
+        width: 600px;
+        height: 300px;
+        border:2px solid #428bca;
+        margin-left:10px;
+        border-top:none;
+      }
+      .div3{
+        width: 600px;
+        height: 280px;
+        border:2px solid #428bca;
+        margin-left:10px;
+        border-top:none;
+      }
+      .th1{
+        background: #428bca;
+        text-indent:.5em;
+        color: #fff;
+      }
+      .table1{
+        margin-left:-18px;
+        overflow:hidden;
+        width: 602px;
+      }
+      .span1{
+        float: right;
+      }
+      .div4{
+        width: 600px;
+        height: 300px;
+        border:2px solid #428bca;
+        margin-left:10px;
+        border-top:none;
+
+      }
+      .div5{
+        width: 600px;
+        height: 280px;
+        border:2px solid #428bca;
+        margin-left:10px;
+        border-top:none;
+      }
+      .clearfix::after{
+        content: "";
+        display: block;
+        clear: both;
+      }
+      .div6{
+        margin-top:20px;
+      }
+      .button2{
+        position: relative;
+        top: -10px;
+        left: 0px;
+        background: #428bca;
+        width: 120px;
+      }
+      .table2{
+        border-top: none;
+      }
+      .th2{
+        background: #428bca;
+      }
+      .label1{
+        margin-top:10px;
+        margin-bottom:10px;
+      }
+      .label2{
+        margin-top:10px;
+      }
+      .main{
+        padding-left:0px;
+      }
